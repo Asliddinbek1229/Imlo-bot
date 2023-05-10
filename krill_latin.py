@@ -6,8 +6,3 @@ def krill_latin(word):
         response = to_latin(word)
 
     return response
-
-word = 'исмалоқ'
-word1 = 'tarix'
-
-print('m' in krill_latin(word))
